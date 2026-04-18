@@ -25,6 +25,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 
 ### Fun & Social
 - [AI Roast Me](https://findpicked.com/tools/ai-roast-me/) - Describe yourself, get hilariously roasted by AI.
+- [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot) - Free online tarot card readings with Lumi the cat guide. 78-card deck, multiple spreads, 15+ languages. No signup.
 - [AI Fortune Teller](https://findpicked.com/tools/ai-fortune-teller/) - Mystical AI psychic reading.
 - [AI Pickup Lines](https://findpicked.com/tools/ai-pickup-lines/) - Smooth, funny, or cheesy lines for any situation.
 - [AI Personality Quiz](https://findpicked.com/tools/ai-personality-quiz/) - AI-generated unique personality type.
