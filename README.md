@@ -32,6 +32,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [AI Rizz Rater](https://findpicked.com/tools/ai-rizz-rater/) - Rate your pickup lines 0-100.
 - [AI Red Flag Analyzer](https://findpicked.com/tools/ai-red-flag-analyzer/) - Scan texts for dating red flags.
 - [AI Toxic Trait Revealer](https://findpicked.com/tools/ai-toxic-trait/) - Discover your worst quality.
+- [Saju — Korean Four Pillars](https://hoonsikim.github.io/saju) - AI fortune reading & compatibility chart, 20 languages, no signup.
 
 ### Games
 - [AI Survival Simulator](https://findpicked.com/tools/ai-survival-simulator/) - Zombie apocalypse, Mars, medieval plague — how long can you survive?
