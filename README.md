@@ -45,6 +45,10 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [AI ELI5 Explainer](https://findpicked.com/tools/ai-eli5/) - Explain anything at 5 difficulty levels.
 - [Pet Name Generator](https://findpicked.com/tools/pet-name-generator/) - AI-powered pet name ideas.
 - [AI Product Finder](https://findpicked.com/tools/product-finder/) - Personalized product recommendations.
+- [Domain Name Generator (TinyTools)](https://tinytools-smoky.vercel.app/domain-name-generator) - AI-powered brandable domain name ideas, browser-based, no signup.
+- [AI Cost Calculator (TinyTools)](https://tinytools-smoky.vercel.app/ai-cost-calculator) - Estimate API costs across GPT-4o, Claude, Gemini & other LLMs.
+- [AI Content Disclosure Generator (TinyTools)](https://tinytools-smoky.vercel.app/ai-content-disclosure-generator) - EU AI Act compliant disclosure snippets for AI-generated content.
+- [AI Background Remover (TinyTools)](https://tinytools-smoky.vercel.app/ai-background-remover) - Local, browser-based background removal — images never leave your device.
 
 ## Developer Tools
 
@@ -70,6 +74,9 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Lorem Ipsum](https://findpicked.com/webtools/lorem-ipsum/) - Placeholder text
 - [QR Code Generator](https://findpicked.com/webtools/qr-generator/) - Generate QR codes
 - [Favicon Generator](https://findpicked.com/webtools/favicon-generator/) - Text/emoji to favicon
+- [OG Image Generator (TinyTools)](https://tinytools-smoky.vercel.app/og-image-generator) - Build Open Graph social preview images in the browser, no signup.
+- [Color Palette Generator (TinyTools)](https://tinytools-smoky.vercel.app/color-palette-generator) - Generate harmonious color palettes for design & branding.
+- [Favicon Generator (TinyTools)](https://tinytools-smoky.vercel.app/favicon-generator) - Multi-size favicon pack from text, emoji, or image.
 
 ### Web Development
 - [Color Converter](https://findpicked.com/webtools/color-converter/) - HEX, RGB, HSL
@@ -95,6 +102,8 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Meta Tag Generator](https://findpicked.com/webtools/meta-tag-generator/) - Generate SEO meta tags
 - [Robots.txt Generator](https://findpicked.com/webtools/robots-txt-generator/) - Control crawler access
 - [Word Counter](https://findpicked.com/webtools/word-counter/) - Text statistics for content writers
+- [SEO Meta Tag Generator (TinyTools)](https://tinytools-smoky.vercel.app/seo-meta-tag-generator) - Generate complete SEO meta tag sets with live preview, no signup.
+- [AI Robots.txt Generator (TinyTools)](https://tinytools-smoky.vercel.app/ai-robots-txt-generator) - Build robots.txt rules including AI/LLM crawler directives (GPTBot, ClaudeBot, etc.).
 
 ## Product Research
 - [Best Robot Vacuums 2026](https://findpicked.com/picks/best-robot-vacuums/) - Top 5 compared
