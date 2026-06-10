@@ -107,8 +107,10 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Best MCP Servers 2026](https://findpicked.com/mcp/) - 70+ curated Model Context Protocol servers
 - [Best Claude Code Skills 2026](https://findpicked.com/skill/) - 60+ curated AI coding skills
 
----
+## Productivity & File Tools
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first online PDF tool suite — merge, split, compress, convert, OCR, e-sign. No signup, all local processing.
 
+---
 ## Contributing
 
 Found a great free tool? [Open a PR](https://github.com/CoffeePrism/awesome-free-tools/pulls) to add it!
