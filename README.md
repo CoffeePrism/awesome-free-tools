@@ -109,6 +109,8 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 
 ---
 
+- [FreePNGConvert](https://freepngconvert.com) - Free in-browser WebP to PNG converter, no upload, privacy-first
+
 ## Contributing
 
 Found a great free tool? [Open a PR](https://github.com/CoffeePrism/awesome-free-tools/pulls) to add it!
