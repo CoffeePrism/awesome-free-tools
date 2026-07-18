@@ -12,6 +12,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Developer Tools](#developer-tools)
 - [SEO & Marketing Tools](#seo--marketing-tools)
 - [Product Research](#product-research)
+- [Online Tool Collections](#online-tool-collections)
 - [Directories](#directories)
 
 ---
@@ -102,6 +103,10 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Best Standing Desks 2026](https://findpicked.com/picks/best-standing-desks/) - For home office
 - [Best Wireless Earbuds 2026](https://findpicked.com/picks/best-wireless-earbuds/) - ANC picks
 - [20+ Product Comparisons](https://findpicked.com/vs/) - X vs Y head-to-head
+
+## Online Tool Collections
+
+- [Toolknit](https://toolknit.com) - Free online tools library with 90+ browser-based utilities for PDF, images, video, audio, text, calculators, and more. All tools run locally in your browser — no signup, no uploads required.
 
 ## Directories
 - [Best MCP Servers 2026](https://findpicked.com/mcp/) - 70+ curated Model Context Protocol servers
