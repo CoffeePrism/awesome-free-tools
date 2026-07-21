@@ -52,6 +52,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [JSON Formatter](https://findpicked.com/webtools/json-formatter/) - Format, validate & beautify JSON
 - [JSON to CSV](https://findpicked.com/webtools/json-to-csv/) - Convert JSON arrays to CSV
 - [CSV to JSON](https://findpicked.com/webtools/csv-to-json/) - Convert CSV to JSON
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Convert XLSX, XLS, CSV & pasted tables to Markdown locally in your browser
 - [JSON to YAML](https://findpicked.com/webtools/json-to-yaml/) - JSON ↔ YAML converter
 - [SQL Formatter](https://findpicked.com/webtools/sql-formatter/) - Beautify SQL queries
 - [Markdown Preview](https://findpicked.com/webtools/markdown-preview/) - Live Markdown to HTML
