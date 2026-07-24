@@ -45,6 +45,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [AI ELI5 Explainer](https://findpicked.com/tools/ai-eli5/) - Explain anything at 5 difficulty levels.
 - [Pet Name Generator](https://findpicked.com/tools/pet-name-generator/) - AI-powered pet name ideas.
 - [AI Product Finder](https://findpicked.com/tools/product-finder/) - Personalized product recommendations.
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No uploads, no signup, unlimited conversions.
 
 ## Developer Tools
 
