@@ -79,6 +79,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [.htaccess Generator](https://findpicked.com/webtools/htaccess-generator/) - Apache redirect rules
 
 ### System & Math
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free browser calculators for concrete slabs, footings, post holes, bag counts, and ready-mix planning
 - [Regex Tester](https://findpicked.com/webtools/regex-tester/) - Test regex with highlights
 - [Timestamp Converter](https://findpicked.com/webtools/timestamp-converter/) - Unix ↔ date
 - [Chmod Calculator](https://findpicked.com/webtools/chmod-calculator/) - Unix permissions
