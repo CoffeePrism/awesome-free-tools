@@ -116,3 +116,8 @@ Found a great free tool? [Open a PR](https://github.com/CoffeePrism/awesome-free
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Web
+
+- **[Vaytric Link Health](https://vaytric.com/link-health/)** — Free broken link checker + optional site crawl report.
+
