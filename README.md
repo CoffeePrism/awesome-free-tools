@@ -45,6 +45,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [AI ELI5 Explainer](https://findpicked.com/tools/ai-eli5/) - Explain anything at 5 difficulty levels.
 - [Pet Name Generator](https://findpicked.com/tools/pet-name-generator/) - AI-powered pet name ideas.
 - [AI Product Finder](https://findpicked.com/tools/product-finder/) - Personalized product recommendations.
+- [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
 
 ## Developer Tools
 
@@ -85,6 +86,12 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Crontab Generator](https://findpicked.com/webtools/crontab-generator/) - Cron expressions
 - [Number Base Converter](https://findpicked.com/webtools/number-base-converter/) - Bin/Oct/Dec/Hex
 - [Percentage Calculator](https://findpicked.com/webtools/percentage-calculator/) - Quick math
+- [WattsCalc](https://wattscalc.com) - Wattage and electricity cost calculator
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Lawn mowing cost estimates
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Embroidery job pricing calculator
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Convert images into crochet patterns
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Pressure washer troubleshooting guides
+- [SkyCOTL Tools](https://skycotl.tools) - Guides and calculators for Sky: Children of the Light
 
 ### Reference
 - [HTTP Status Codes](https://findpicked.com/webtools/http-status-codes/) - Complete reference
