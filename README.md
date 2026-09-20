@@ -1,5 +1,6 @@
 # Awesome Free Online Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, delivery note, work order, receipt, SOW, and more (MIT, no signup).
 > A curated list of the best free online tools that work in your browser — no signup, no installation, no BS.
 
 All tools listed here are **100% free**, run **in your browser**, and require **no account creation**.
