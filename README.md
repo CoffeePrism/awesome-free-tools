@@ -41,6 +41,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [决战拜年之巅](https://findpicked.com/tools/bainianzhidian/) - Chinese New Year relative battle simulator.
 
 ### Utility
+- [NextReset](https://nextreset.ai/) - Free, no-signup reference for source-linked Codex reset history, official AI service incidents, and a browser-local countdown timer.
 - [AI Business Name Generator](https://findpicked.com/tools/ai-business-name/) - Creative brand names instantly.
 - [AI ELI5 Explainer](https://findpicked.com/tools/ai-eli5/) - Explain anything at 5 difficulty levels.
 - [Pet Name Generator](https://findpicked.com/tools/pet-name-generator/) - AI-powered pet name ideas.
