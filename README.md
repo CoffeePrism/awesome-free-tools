@@ -10,6 +10,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 
 - [AI Tools](#ai-tools)
 - [Developer Tools](#developer-tools)
+- [Image & PDF Tools](#image--pdf-tools)
 - [SEO & Marketing Tools](#seo--marketing-tools)
 - [Product Research](#product-research)
 - [Directories](#directories)
@@ -90,6 +91,10 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [HTTP Status Codes](https://findpicked.com/webtools/http-status-codes/) - Complete reference
 - [Screen Resolution](https://findpicked.com/webtools/screen-resolution/) - Display & browser info
 - [Emoji Picker](https://findpicked.com/webtools/emoji-picker/) - Search & copy emojis
+
+## Image & PDF Tools
+
+- [File Converter](https://fileontap.com/) - Free browser-local HEIC/WebP/PNG/JPG conversion, compression, and image↔PDF; no upload or account.
 
 ## SEO & Marketing Tools
 - [Meta Tag Generator](https://findpicked.com/webtools/meta-tag-generator/) - Generate SEO meta tags
