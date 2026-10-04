@@ -75,6 +75,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Color Converter](https://findpicked.com/webtools/color-converter/) - HEX, RGB, HSL
 - [CSS Gradient](https://findpicked.com/webtools/css-gradient/) - Visual gradient builder
 - [Meta Tag Generator](https://findpicked.com/webtools/meta-tag-generator/) - SEO, OG, Twitter Cards
+- [Firm Beacon Image Resizer](https://www.firmbeacon.co.uk/tools/image-resizer) - Resize JPG, PNG and WebP images in your browser with maximum dimensions and no upload.
 - [Robots.txt Generator](https://findpicked.com/webtools/robots-txt-generator/) - Build robots.txt
 - [.htaccess Generator](https://findpicked.com/webtools/htaccess-generator/) - Apache redirect rules
 
