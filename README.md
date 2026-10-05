@@ -95,6 +95,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Meta Tag Generator](https://findpicked.com/webtools/meta-tag-generator/) - Generate SEO meta tags
 - [Robots.txt Generator](https://findpicked.com/webtools/robots-txt-generator/) - Control crawler access
 - [Word Counter](https://findpicked.com/webtools/word-counter/) - Text statistics for content writers
+- [Follower Growth Pace Calculator (Slovak)](https://kupitsledovatelov.sk/tools/follower-growth) - Free manual calculator for the net follower increase needed per day and week to reach a target in a chosen number of days. Runs in the browser without signup or profile lookup; a mathematical plan, not a growth forecast.
 
 ## Product Research
 - [Best Robot Vacuums 2026](https://findpicked.com/picks/best-robot-vacuums/) - Top 5 compared
