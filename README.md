@@ -85,6 +85,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Crontab Generator](https://findpicked.com/webtools/crontab-generator/) - Cron expressions
 - [Number Base Converter](https://findpicked.com/webtools/number-base-converter/) - Bin/Oct/Dec/Hex
 - [Percentage Calculator](https://findpicked.com/webtools/percentage-calculator/) - Quick math
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - US roof replacement cost ranges by size, material, location, and tear-off
 
 ### Reference
 - [HTTP Status Codes](https://findpicked.com/webtools/http-status-codes/) - Complete reference
