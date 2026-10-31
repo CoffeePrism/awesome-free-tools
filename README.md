@@ -39,6 +39,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [AI Wikipedia Speedrun](https://findpicked.com/tools/ai-wikipedia-speedrun/) - Connect two topics in fewest steps.
 - [AI Argument Settler](https://findpicked.com/tools/ai-argument-settler/) - Let AI judge your debate.
 - [决战拜年之巅](https://findpicked.com/tools/bainianzhidian/) - Chinese New Year relative battle simulator.
+- [My Nine Games](https://myninegames.com/) - Free 3×3 grid maker for the nine games that shaped you; download a PNG, no sign-up.
 
 ### Utility
 - [AI Business Name Generator](https://findpicked.com/tools/ai-business-name/) - Creative brand names instantly.
