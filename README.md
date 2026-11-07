@@ -70,6 +70,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Lorem Ipsum](https://findpicked.com/webtools/lorem-ipsum/) - Placeholder text
 - [QR Code Generator](https://findpicked.com/webtools/qr-generator/) - Generate QR codes
 - [Favicon Generator](https://findpicked.com/webtools/favicon-generator/) - Text/emoji to favicon
+- [ASCII Images](https://ascii-images.com/ascii-text-generator) - Create FIGlet text banners with copyable output, free without an account.
 
 ### Web Development
 - [Color Converter](https://findpicked.com/webtools/color-converter/) - HEX, RGB, HSL
