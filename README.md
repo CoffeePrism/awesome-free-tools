@@ -49,6 +49,7 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 ## Developer Tools
 
 ### Data Formatting
+- [BestJSON](https://bestjson.com/) - Format, validate, repair, compare and query JSON locally in the browser
 - [JSON Formatter](https://findpicked.com/webtools/json-formatter/) - Format, validate & beautify JSON
 - [JSON to CSV](https://findpicked.com/webtools/json-to-csv/) - Convert JSON arrays to CSV
 - [CSV to JSON](https://findpicked.com/webtools/csv-to-json/) - Convert CSV to JSON
